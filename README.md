@@ -1,6 +1,3 @@
-# GhostTool
-GhostTool is our official Discord Raider | a Discord raider with various features Its ALWAYS UpToDate 100% SAFE
-
 # Ghost Raider
 ⭐ Leave a star, please!
 
